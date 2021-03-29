@@ -1,2 +1,2 @@
 console.log('ok')
-123
+1
